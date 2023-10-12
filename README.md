@@ -1,2 +1,3 @@
 # PersonalFinanceManagement
-Proyecto de manejo de finanzas con almacenzmientos y estudio de estos mediante web
+Proyecto de manejo de finanzas con almacenamientos y estudio de estos mediante web
+
